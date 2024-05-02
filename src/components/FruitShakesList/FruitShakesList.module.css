@@ -1,0 +1,7 @@
+.shakes_main_container {
+	width: 100%;
+	height: auto;
+	display: flex;
+	gap: 2rem;
+	flex-wrap: wrap;
+ }
